@@ -1,0 +1,99 @@
+body{
+    margin-top: 20px;
+    margin-left: 25px;
+    font-family: 'Allerta';
+}
+
+#navbarMonstera{
+    display: flex;
+}
+
+#navFirst{
+   padding: 5px 20px;
+   position: relative;
+   top: 10px;
+}
+
+#navMid{
+    display: flex;
+}
+#navMid div h4{
+    padding: 5px 45px;
+}
+
+#navEnd{
+    display: flex;
+}
+
+#navEnd div img{
+    padding: 5px 45px;
+    position: relative;
+    top: 15px;
+
+}
+#navbarMonstera{
+    margin-bottom: 100px;
+}
+
+#monstera{
+    font-size: 80px;
+    margin-bottom: 0;
+    position: relative;
+    top: 20px;
+}
+#midWholePart11>div>ul>li{
+    padding-right: 600px;
+}
+
+#midWholePart11>div>ul>li{
+    font-weight: 100;
+}
+#midWholePart121>div>h1{
+    background-color: #1C8D73;
+    padding: 5px 25px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 300;
+    color: #ffffff;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.arrow{
+  border: solid white;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 8px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+#midWholePart13{
+    display: flex;
+}
+#imgMain{
+    position: relative;
+    left: 750px;
+    bottom: 600px;
+    width: 40%;
+}
+#navMid>div>h4:hover{
+    text-decoration: underline;
+}
+.text{
+    font-size: x-small;
+}
+
+.midWholePart13Parts{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    margin-top: 50px;
+
+}
+
+.midWholePart13Parts>div>img{
+    margin-right: 5px;
+}
